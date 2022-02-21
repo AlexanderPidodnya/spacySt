@@ -8,9 +8,6 @@ from io import BytesIO
 
 def run_OCR2(f_name):
 
-    #f_name = r'F:\Python\OCR_diploma\docs_base\StauffInvoices\363285.pdf' 
-    #f_name = r'F:\Python\OCR_diploma\docs_base\acts_raw\170 акт.pdf'
-    #f_name = r'F:\Python\OCR_diploma\docs_base\invoices\GOJ000184_СЧФ_6664_01042021.pdf'
     size = 2400
     pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
     f_pdf = open(f_name, 'rb').read()
