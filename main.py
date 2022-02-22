@@ -211,10 +211,14 @@ def transfer(fName):
 
 app = FastAPI()
 
-@app.post("/recognise_stauff")
+@app.post("/stauff")
 async def recognise_stauffe_file(file: bytes = File(...)):
     return {'result' : file}
     #return {"result": transfer(file)}
+
+@app.get("/test2")
+def read_root():
+    return {'Hello world!'}
 
 @app.get("/test")
 def read_root():
