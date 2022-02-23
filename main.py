@@ -34,6 +34,13 @@ def pdfDocToStringRu(f_name):
         text += pytesseract.image_to_string(img , lang='rus', config='--psm 4' )
     return text
 
+def fixRandomSubstitutions(text):
+    text = text.replace('А', 'A').replace('В', 'B').replace('С', 'C').replace('Е', 'E').replace('Н', 'H')
+    text = text.replace('К', 'K').replace('М', 'M').replace('О', 'O').replace('Р', 'P').replace('Т', 'T').replace('Х', 'X')
+    text = text.replace('а', 'a').replace('с', 'c').replace('е', 'e').replace('о', 'o').replace('р', 'p')
+    text = text.replace('п', 'n').replace('х', 'x')
+    return text
+
 def pdfDocToStringEn(f_name):
     size = 2400
     pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
@@ -43,7 +50,9 @@ def pdfDocToStringEn(f_name):
     text = ''
     for img in images:
         text += pytesseract.image_to_string(img , lang='eng', config='--psm 4' )
-    return text
+    return fixRandomSubstitutions(text)
+
+
 
 
 def shortening(text):
