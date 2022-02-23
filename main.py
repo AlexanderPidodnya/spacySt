@@ -23,6 +23,29 @@ def pdfDocToString(f_name):
         text += pytesseract.image_to_string(img , lang='rus+eng', config='--psm 4' )
     return text
 
+def pdfDocToStringRu(f_name):
+    size = 2400
+    pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+    f_pdf = open(f_name, 'rb').read()
+    images = convert_from_bytes(f_pdf, dpi = 300, size=size)
+    images = convert_from_path(f_name, dpi = 300)
+    text = ''
+    for img in images:
+        text += pytesseract.image_to_string(img , lang='rus', config='--psm 4' )
+    return text
+
+def pdfDocToStringEn(f_name):
+    size = 2400
+    pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+    f_pdf = open(f_name, 'rb').read()
+    images = convert_from_bytes(f_pdf, dpi = 300, size=size)
+    images = convert_from_path(f_name, dpi = 300)
+    text = ''
+    for img in images:
+        text += pytesseract.image_to_string(img , lang='eng', config='--psm 4' )
+    return text
+
+
 def shortening(text):
     nlp = spacy.blank("en")
 
@@ -213,8 +236,8 @@ app = FastAPI()
 
 @app.post("/stauff")
 async def recognise_stauffe_file(file: bytes = File(...)):
-    return {'result' : file}
-    #return {"result": transfer(file)}
+    #return {'result' : file}
+    return {"result": transfer(file)}
 
 @app.get("/test2")
 def read_root():
