@@ -50,10 +50,8 @@ def pdfDocToStringEn(f_name):
     text = ''
     for img in images:
         text += pytesseract.image_to_string(img , lang='eng', config='--psm 4' )
-    return fixRandomSubstitutions(text)
-
-
-
+    return text
+    #fixRandomSubstitutions(text)
 
 def shortening(text):
     nlp = spacy.blank("en")
@@ -134,21 +132,14 @@ def shortening(text):
             else:
                 shortenText = shortenText +  doc[pageinfo['STARTPAGE']:pageinfo['ENDPAGE']].text
                 docs.append(doc[pageinfo['STARTPAGE']:pageinfo['ENDPAGE']].text)
-                #print(pageinfo, pageinfo['ENDPAGE'] - pageinfo['STARTPAGE'])
                 txt = txt + strSeparator + doc[pageinfo['STARTPAGE']:pageinfo['ENDPAGE']].text 
-
-                
-                #break
             pageinfo = {'ABOUTNOPAGE':0, 'STARTPAGE':0, 'ENDPAGE':0}
             npage += 1
 
-        #print(pageinfo)
-    #print(txt)
-    #print(len(paging))
+
     return shortenText
 
 def run_OCR2(f_name):
-
     size = 2400
     pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
     f_pdf = open(f_name, 'rb').read()
@@ -157,9 +148,6 @@ def run_OCR2(f_name):
     for img in images:
         strings = pytesseract.image_to_string(img , lang='rus+eng')
         res.append(strings)
-        
-    #strings = '1234567890' + str(image_file)
-        
     return strings
 
 def text2spans(rtest):
@@ -195,41 +183,72 @@ def text2spans(rtest):
     matcher.add('PTROFPC', [patternPC])
 
     doc1 = nlp(rtest)
-
-    #print("Verbs:", [token.text for token in doc1[45:54]])
-
     matches = matcher(doc1)
     spans = [Span(doc1, start, end, label=match_id) for match_id, start, end in matches]
 
     startSpan = 0
     endSpan = 0
-    #posTariff = 0
-    #txt2 = 'import json \nimport spacy \nfrom spacy.matcher import Matcher \nfrom spacy.tokens import Span, DocBin \ndocs = [] \n'
-    #nPos = 0
     docs = []
-    pos2PC = 0
+#    pos2PC = 0
     for sp in spans:
         if sp.label_  == 'PTRPURCHASE':
             startSpan = sp.start
-            
-        #elif sp.label_  == 'PTRTARIFF':             posTariff = sp.end-1
-            
-        #elif sp.label_  == 'PTROFPC':             pos2PC = sp.start
-        
         elif sp.label_  == 'PTRCOUNTRY':
             endSpan = sp.end
-            #pos2PC = pos2PC - startSpan  
-            
-
             docs.append(doc1[startSpan:endSpan].text)
             
     return docs
+
+def text2spans26(rtest):
+    rtest = rtest.replace(strSeparator, '')
+
+    nlp = spacy.blank("en")
+    fullDoc = nlp(rtest)
+    matcher = Matcher(nlp.vocab)
+
+    patternNOrder = [{'LOWER': 'order'}, {'LOWER':'number'}, {'LOWER':':'}, {'LIKE_NUM': True}]
+    matcher.add('NORDER', [patternNOrder])
+    matches = matcher(fullDoc)
+    prepSpans = [Span(fullDoc, start, end, label=match_id) for match_id, start, end in matches]
+    stPos = 0
+    pos = 0
+    docs = []
+    for prepItem in prepSpans:
+        if stPos == 0:
+            stPos = prepItem.start
+        else:
+            doc1 = fullDoc[stPos : prepItem.start].text
+            docs.append(doc1)
+            pos += 1
+            stPos = prepItem.start 
+    if stPos !=0:
+        doc1 = fullDoc[stPos:].text
+        docs.append(doc1)
+
+    return docs
+
 
 def transfer(fName):
     text = pdfDocToString(f_name=fName)
     txtS = shortening(text)
     docs = text2spans(txtS)
     nlp_ = spacy.load(r"C:\Users\AdminAsus\source\python\spacyST\spacySt-1\output\model-best")
+    answer = []
+    for doc in docs:
+        docx = nlp_(doc)
+        #print(docx.ents)
+        res = []
+        for ent in docx.ents:
+            res.append((ent.label_, ent.text))
+        answer.append(res)
+    jsonStr = json.dumps(answer) 
+    return jsonStr
+
+def transfer26(fName):
+    text = pdfDocToString(f_name=fName)
+    txtS = shortening(text)
+    docs = text2spans26(txtS)
+    nlp_ = spacy.load(r"C:\Users\AdminAsus\source\python\spacyST\spacySt-1\output26\model-best")
     answer = []
     for doc in docs:
         docx = nlp_(doc)
@@ -248,13 +267,18 @@ async def recognise_stauffe_file(file: bytes = File(...)):
     #return {'result' : file}
     return {"result": transfer(file)}
 
+@app.post("/stauff26")
+async def recognise_stauffe_file26(file: bytes = File(...)):
+    #return {'result' : file}
+    return {"result": transfer26(file)}
+
 @app.get("/test2")
 def read_root():
     return {'Hello world!'}
 
 @app.get("/test")
 def read_root():
-    return {'Hello world!'}
+    return {'Hello Simon!'}
 
 @app.get("/runOCR")    
 def run_OCR():

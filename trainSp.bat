@@ -1,0 +1,1 @@
+python -m spacy train ./config.cfg --output ./output26 --paths.train train26.spacy --paths.dev dev26.spacy
