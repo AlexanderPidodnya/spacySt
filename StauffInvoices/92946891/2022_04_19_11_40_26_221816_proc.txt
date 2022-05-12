@@ -1,0 +1,618 @@
+Purchase order number: N SR-1-06 1577**
+11200 120 PC 6010001432 (*) 187,55 100 PC 225,06
+
+FI-GE-12LM12x1.5-WD-B-W3-MS
+FI-GE-12LM12x1,5-WD-B-W3-MS
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1577
+#POS:11200
+#AMOUNT:120
+#ARTICLE:6010001432
+#PRICE:187,55
+#UNIT:100
+#SUM:225,06
+#TARIFF:73079910
+#COUNTRY:Germany
+Purchase order number: л SR-1-06 1578**
+11300 6.600 PC 1120021036 23,81 100 PC 1.571,46
+
+LBBU-SP-1 -M8-W2
+
+LBBU-SP 1 M8 W2
+
+packed per each item
+
+Product description: weld plate
+
+Export - Customs tariff no.: 73269098
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1578
+#POS:11300
+#AMOUNT:6.600
+#ARTICLE:1120021036
+#PRICE:23,81
+#UNIT:100
+#SUM:1.571,46
+#TARIFF:73269098
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1662
+11400 60 PC 6020000526 (*) 135,77 100 PC 81,46
+
+FI-GE-15LR3/4-WD-B-W3
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1662
+#POS:11400
+#AMOUNT:60
+#ARTICLE:6020000526
+#PRICE:135,77
+#UNIT:100
+#SUM:81,46
+#TARIFF:73079910
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1663
+11500 48 PC 6010003210 (*) 688,48 100 PC 330,47
+
+FI-SNV-42L-V-W3-DKO
+FI-SNV-42L-B-W3-DKO
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1663
+#POS:11500
+#AMOUNT:48
+#ARTICLE:6010003210
+#PRICE:688,48
+#UNIT:100
+#SUM:330,47
+#TARIFF:73079910
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1678
+11600 140 пя 1110015917 83,81 100 пя 117,33
+
+$п-214/14-пп-м-ян-ю$-л-л/1 0
+
+SP 214/14 ппм-ян-ю$ л W10
+packed per each item
+
+Product description: clamp combination
+Export - Customs tariff no.: 39269097
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1678
+#POS:11600
+#AMOUNT:140
+#ARTICLE:1110015917
+#PRICE:83,81
+#UNIT:100
+#SUM:117,33
+#TARIFF:39269097
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1688
+12100 125 PC 1120021036 26,19 100 PC 32,74
+
+LBBU-SP-1 -M8-W2
+
+LBBU-SP 1 M8 W2
+
+packed per each item
+
+Product description: weld plate
+
+Export - Customs tariff no.: 73269098
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1688
+#POS:12100
+#AMOUNT:125
+#ARTICLE:1120021036
+#PRICE:26,19
+#UNIT:100
+#SUM:32,74
+#TARIFF:73269098
+#COUNTRY:Germany
+Purchase order number: л SR-1-06 1716**
+12200 225 PC 1120002537 28,25 100 PC 63,56
+SP-2D-M-W2
+SP 2 DM W2
+
+packed per each item
+
+Product description: weld plate
+
+Export - Customs tariff no.: 73269098
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1716
+#POS:12200
+#AMOUNT:225
+#ARTICLE:1120002537
+#PRICE:28,25
+#UNIT:100
+#SUM:63,56
+#TARIFF:73269098
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1819*
+12300 2 PC 1910000459 20,98 1 пя 41,96
+Limit-Switch-G42NO-S-B02-B1 .3
+SIE-NO
+Clogging indicator (normally open)
+packed per each item
+Product description: Pressure gauge
+Export - Customs tariff no.: 90262020
+Country of origin: Italy
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1819
+#POS:12300
+#AMOUNT:2
+#ARTICLE:1910000459
+#PRICE:20,98
+#UNIT:1
+#SUM:41,96
+#TARIFF:90262020
+#COUNTRY:Italy
+Purchase order number: N SR-1-06 1825*
+12400 16 PC 1910000459 20,98 1 пя 335,68
+Limit-Switch-G42NO-S-B0 2 -B1.3
+SIE-NO
+
+Clogging indicator (normally open)
+packed per each item
+
+Product description: Pressure gauge
+Export - Customs tariff no.: 90262020
+Country of origin: Italy
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1825
+#POS:12400
+#AMOUNT:16
+#ARTICLE:1910000459
+#PRICE:20,98
+#UNIT:1
+#SUM:335,68
+#TARIFF:90262020
+#COUNTRY:Italy
+Purchase order number: л SR-1-06 1826**
+12500 10 PC 6010003210 (*) 757,33 100 PC 75,73
+
+FI-SNV-42L-V-W3-DKO
+FI-SNV-42L-B-W3-DKO
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1826
+#POS:12500
+#AMOUNT:10
+#ARTICLE:6010003210
+#PRICE:757,33
+#UNIT:100
+#SUM:75,73
+#TARIFF:73079910
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1900
+12600 500 пя 6030003815 18,68 100 PC 93,40
+FI-M-15L-W3
+
+packed per each item
+
+Product description: nuts
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1900
+#POS:12600
+#AMOUNT:500
+#ARTICLE:6030003815
+#PRICE:18,68
+#UNIT:100
+#SUM:93,40
+#TARIFF:73079910
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1899
+12700 5.500 PC 6030003827 53,56 100 PC 2.945,80
+FI-M-20S-W3
+
+packed per each item
+
+Product description: nuts
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1899
+#POS:12700
+#AMOUNT:5.500
+#ARTICLE:6030003827
+#PRICE:53,56
+#UNIT:100
+#SUM:2.945,80
+#TARIFF:73079910
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1899
+12800 200 PC 6100165018 19,84 1 пя 3.968,00
+
+BFX90-305-ES-42.2/36-W1-471142
+packed per each item
+
+Product description: flange
+
+Export - Customs tariff no.: 73079100
+Country of origin: Italy
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1899
+#POS:12800
+#AMOUNT:200
+#ARTICLE:6100165018
+#PRICE:19,84
+#UNIT:1
+#SUM:3.968,00
+#TARIFF:73079100
+#COUNTRY:Italy
+Purchase order number: N SR-1-06 1912**
+12900 50 пя 1910000432 (*) 4,07 1 пя 203,50
+
+SMBT-47-S-10-O-B04-O
+
+packed per each item
+
+Product description: filter breather
+Export - Customs tariff no.: 84213925
+Country of origin: Italy
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1912
+#POS:12900
+#AMOUNT:50
+#ARTICLE:1910000432
+#PRICE:4,07
+#UNIT:1
+#SUM:203,50
+#TARIFF:84213925
+#COUNTRY:Italy
+Purchase order number: N SR-1-06 1916**
+13000 240 пя 6100196617 32,75 100 пя 78,60
+
+LBBU-2 15-SA-M8/U5/16/2
+
+packed per each item
+
+Export - Customs tariff no.: 39269097
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1916
+#POS:13000
+#AMOUNT:240
+#ARTICLE:6100196617
+#PRICE:32,75
+#UNIT:100
+#SUM:78,60
+#TARIFF:39269097
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1916**
+13100 340 PC 6100196633 52,37 100 PC 178,06
+
+LBBU-218/12-SA-M8/U5/16/2
+
+packed per each item
+
+Export - Customs tariff no.: 39269097
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1916
+#POS:13100
+#AMOUNT:340
+#ARTICLE:6100196633
+#PRICE:52,37
+#UNIT:100
+#SUM:178,06
+#TARIFF:39269097
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1916**
+13200 54 пя 6100211504 52,37 100 пя 28,28
+
+LBBU-2 12/08-SA-M8/U5/16/2
+
+
+Description
+
+packed per each item
+
+Product description: clamp combination
+Export - Customs tariff no.: 39269097
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1916
+#POS:13200
+#AMOUNT:54
+#ARTICLE:6100211504
+#PRICE:52,37
+#UNIT:100
+#SUM:28,28
+#TARIFF:39269097
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 1916**
+13300 250 пя 6100211504 52,37 100 PC 130,93
+
+LBBU-2 12/08-SA-M8/U5/16/2
+
+packed per each item
+
+Product description: clamp combination
+Export - Customs tariff no.: 39269097
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:1916
+#POS:13300
+#AMOUNT:250
+#ARTICLE:6100211504
+#PRICE:52,37
+#UNIT:100
+#SUM:130,93
+#TARIFF:39269097
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 2009
+13400 903 пя 1120021038 26,79 100 пя 241,91
+
+LBBU-SP-2-M8 -W2
+
+LBBU-SP 2 M8 W2
+
+packed per each item
+
+Product description: weld plate
+
+Export - Customs tariff no.: 73269098
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:2009
+#POS:13400
+#AMOUNT:903
+#ARTICLE:1120021038
+#PRICE:26,79
+#UNIT:100
+#SUM:241,91
+#TARIFF:73269098
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 2009
+13500 65 пя 6100074501 (*) 7,59 1 пя 493,35
+QRC-FF-1 0-е-я0 6 -BT-W3
+FF10-1-IGFO6
+
+packed per each item
+
+
+Description
+
+Product description: coupling
+Export - Customs tariff no.: 84812010
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:2009
+#POS:13500
+#AMOUNT:65
+#ARTICLE:6100074501
+#PRICE:7,59
+#UNIT:1
+#SUM:493,35
+#TARIFF:84812010
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 2008
+13600 7.518 пя 1130003951 1,99 100 PC 149,61
+
+LI-M6x20-ISO1207-4.8-W3
+
+packed per each item
+
+Product description: screw
+
+Export - Customs tariff no.: 73181558
+Country of origin: Origin
+NER#CONTRACT:SR-1-06
+#CONTRACT1:2008
+#POS:13600
+#AMOUNT:7.518
+#ARTICLE:1130003951
+#PRICE:1,99
+#UNIT:100
+#SUM:149,61
+#TARIFF:73181558
+#COUNTRY:Origin
+Purchase order number: N SR-1-06 2008
+13700 7.551 пя 1130005249 57,62 100 пя 4.350,89
+212/12-PA
+212/12 PA
+
+packed per each item
+
+Product description: Pipe clamp
+
+Export - Customs tariff no.: 39269097
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:2008
+#POS:13700
+#AMOUNT:7.551
+#ARTICLE:1130005249
+#PRICE:57,62
+#UNIT:100
+#SUM:4.350,89
+#TARIFF:39269097
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 2010
+13800 8 пя 1210027419 (*) 4,51 1 пя 36,08
+
+SMK-20-M14x1.5-B-C-SK-W3
+SMK20-M1 4x1 ,5-PC-SK-C6F
+packed per each item
+
+
+Description
+
+Product description: coupling
+Export - Customs tariff no.: 84818073
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:2010
+#POS:13800
+#AMOUNT:8
+#ARTICLE:1210027419
+#PRICE:4,51
+#UNIT:1
+#SUM:36,08
+#TARIFF:84818073
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 47**
+13900 180 PC 1130003951 1,99 100 PC 3,58
+
+LI-M6x20-ISO1207-4.8-W3
+
+packed per each item
+
+Product description: screw
+
+Export - Customs tariff no.: 73181558
+Country of origin: Origin
+NER#CONTRACT:SR-1-06
+#CONTRACT1:47
+#POS:13900
+#AMOUNT:180
+#ARTICLE:1130003951
+#PRICE:1,99
+#UNIT:100
+#SUM:3,58
+#TARIFF:73181558
+#COUNTRY:Origin
+Purchase order number: N SR-1-06 47**
+14000 100 пя 1120021036 26,19 100 пя 26,19
+
+LBBU-SP-1 -M8-W2
+
+LBBU-SP 1 M8 W2
+
+packed per each item
+
+Product description: weld plate
+
+Export - Customs tariff no.: 73269098
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:47
+#POS:14000
+#AMOUNT:100
+#ARTICLE:1120021036
+#PRICE:26,19
+#UNIT:100
+#SUM:26,19
+#TARIFF:73269098
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 96**
+14100 100 PC 1120003539 (*) 20,78 100 PC 20,78
+AF-5-M-W3
+
+AF 5 M W3 M6x50
+packed per each item
+Product description: screw
+
+
+Description
+
+Export - Customs tariff no.: 73181588
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:96
+#POS:14100
+#AMOUNT:100
+#ARTICLE:1120003539
+#PRICE:20,78
+#UNIT:100
+#SUM:20,78
+#TARIFF:73181588
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 96**
+14200 12 PC 6100069105 (*) 7,30 1 пя 87,60
+
+QRC-HP-25-M-25S-B-W66
+HP20-2-S2536
+
+packed per each item
+
+Product description: coupling
+
+Export - Customs tariff no.: 84812010
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:96
+#POS:14200
+#AMOUNT:12
+#ARTICLE:6100069105
+#PRICE:7,30
+#UNIT:1
+#SUM:87,60
+#TARIFF:84812010
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 96**
+14300 20 пя 1210026091 (*) 9,35 1 пя 187,00
+
+SMS-20/M1/4-B-OR-2000-A-W3
+SMS-20/M1/4-P-OR-2000-A-C6F
+packed per each item
+
+Product description: hose
+
+Export - Customs tariff no.: 39173100
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:96
+#POS:14300
+#AMOUNT:20
+#ARTICLE:1210026091
+#PRICE:9,35
+#UNIT:1
+#SUM:187,00
+#TARIFF:39173100
+#COUNTRY:Germany
+Purchase order number: N SR-1-06 125
+14400 2 пя 6030003478 481,07 100 пя 9,62
+
+FI-T-15/12/15L-W3
+packed per each item
+Product description: fitting
+
+
+Description
+
+Export - Customs tariff no.: 73079290
+Country of origin: Germany
+NER#CONTRACT:SR-1-06
+#CONTRACT1:125
+#POS:14400
+#AMOUNT:2
+#ARTICLE:6030003478
+#PRICE:481,07
+#UNIT:100
+#SUM:9,62
+#TARIFF:73079290
+#COUNTRY:Germany

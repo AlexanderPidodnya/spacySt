@@ -1,3 +1,4 @@
+﻿import string, os
 import streamlit as st
 import numpy as np
 import pandas as pd
@@ -9,8 +10,27 @@ import json
 import spacy as spacy
 from spacy.tokens import Span
 from spacy.matcher import Matcher
+from datetime import datetime
 
+directory = r"C:\Users\alex1c\sources\spacySt\StauffInvoices"
 strSeparator = '\n#########################################################\n'
+
+def appendLogEvent(methName, desc):
+    logFile = r'C:\Users\alex1c\sources\spacySt\StauffInvoices\log\log.txt'
+    with open(logFile, 'a') as logFile:
+        #print(datetime.datetime.now())
+        logFile.write(str(datetime.now()) + ' ' + ' method: ' + methName + ', event: ' + desc + '\n')
+
+def saveIntermediateResult(f_name, content):
+    with open(f_name, 'w') as txtFile:
+        #print(datetime.datetime.now())
+        txtFile.write(content) 
+
+def getDocName(f_name = ''):
+    return f_name.split('\\')[-1].split('.')[0]
+
+def getTimeSuffix():
+    return str(datetime.now()).replace('-','_').replace(':','_').replace('.','_').replace(' ','_')
 
 def pdfDocToString(f_name):
     size = 2400
@@ -227,28 +247,118 @@ def text2spans26(rtest):
 
     return docs
 
+def transferByModel(fName, nlp_):
+    dirName = getDocName(fName)
+    fullDirName = os.path.join(directory, dirName)
+    #print(fullDirName)
+    if not os.path.exists(fullDirName):
+        #print(fullDirName)
+        os.makedirs(fullDirName)   
+    comPartFname = getTimeSuffix()
 
-def transfer(fName):
-    text = pdfDocToString(f_name=fName)
-    txtS = shortening(text)
-    docs = text2spans(txtS)
-    nlp_ = spacy.load(r"C:\Users\AdminAsus\source\python\spacyST\spacySt-1\output\model-best")
+    matchedFiles = [x for x in os.listdir(fullDirName) if '_shorten.txt' in x] 
+    if len(matchedFiles) !=0:
+        recPDF = os.path.join(fullDirName, matchedFiles[0])
+        print(recPDF)
+        #if os.path.exists(recPDF):
+        with open(recPDF, 'r') as txtFile:
+            #print(datetime.datetime.now())
+            txtS = txtFile.read() 
+            print("Found shorten text ", recPDF) 
+    else:   
+        matchedFiles = [x for x in os.listdir(fullDirName) if '_text.txt' in x]
+        
+        if len(matchedFiles) !=0:
+            recPDF = os.path.join(fullDirName, matchedFiles[0])
+            print(recPDF)
+            #if os.path.exists(recPDF):
+            with open(recPDF, 'r') as txtFile:
+                #print(datetime.datetime.now())
+                text = txtFile.read()  
+                print("Found recognized text ", recPDF)
+        else:   
+            text = pdfDocToString(f_name=fName)
+            saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_text.txt'), text)
+            print("Recognize pdf to text")
+    
+        txtS = shortening(text)
+        saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_shorten.txt'), txtS)
+        print("Shortened  text")
+
+    #text = pdfDocToString(f_name=fName)
+    #saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_text.txt'), text)
+    #txtS = shortening(text)
+    #saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_shorten.txt'), txtS)
+    docs = text2spans26(txtS)
+    #nlp_ = spacy.load(r"C:\Users\alex1c\sources\spacySt\output_1\model-best")
     answer = []
+    processing = ''
+
     for doc in docs:
+        processing += doc + '\n'
         docx = nlp_(doc)
-        #print(docx.ents)
         res = []
+        ner = ''
         for ent in docx.ents:
+            try:
+                ner += '#' + ent.label_ + ':' + ent.text+'\n'
+            except:
+                print(ent.label_, ent.text, type(ent.label_), type(ent.text))
+                ner += '#ERR' + str(ent.label_)+ ':' + str(ent.text)+'\n'
             res.append((ent.label_, ent.text))
         answer.append(res)
+        processing += 'NER' + ner
+    saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_proc.txt'), processing)
+    jsonStr = json.dumps(answer) 
+    return jsonStr
+
+def transfer(fName):
+    nlp_ = spacy.load(r"C:\Users\alex1c\sources\spacySt\output_1\model-best")
+    return transferByModel(fName, nlp_)
+
+    dirName = getDocName(fName)
+    fullDirName = os.path.join(directory, dirName)
+    #print(fullDirName)
+    if not os.path.exists(fullDirName):
+        #print(fullDirName)
+        os.makedirs(fullDirName)   
+    comPartFname = getTimeSuffix()
+
+    text = pdfDocToString(f_name=fName)
+    saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_text.txt'), text)
+    txtS = shortening(text)
+    saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_sh_text.txt'), txtS)
+    docs = text2spans(txtS)
+    nlp_ = spacy.load(r"C:\Users\alex1c\sources\spacySt\output_1\model-best")
+    answer = []
+    processing = ''
+
+    for doc in docs:
+        processing += doc + '\n'
+        docx = nlp_(doc)
+        res = []
+        ner = ''
+        for ent in docx.ents:
+            try:
+                ner += '#' + ent.label_ + ':' + ent.text+'\n'
+            except:
+                print(ent.label_, ent.text, type(ent.label_), type(ent.text))
+            res.append((ent.label_, ent.text))
+        answer.append(res)
+        processing += 'NER' + ner
+    saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_proc.txt'), processing)
     jsonStr = json.dumps(answer) 
     return jsonStr
 
 def transfer26(fName):
+    nlp_ = spacy.load(r"C:\Users\alex1c\sources\spacySt\output26\model-best")
+    return transferByModel(fName, nlp_)
+
+
     text = pdfDocToString(f_name=fName)
     txtS = shortening(text)
     docs = text2spans26(txtS)
-    nlp_ = spacy.load(r"C:\Users\AdminAsus\source\python\spacyST\spacySt-1\output26\model-best")
+    nlp_ = spacy.load(r"C:\Users\alex1c\sources\spacySt\output26\model-best")
     answer = []
     for doc in docs:
         docx = nlp_(doc)
@@ -262,14 +372,52 @@ def transfer26(fName):
 
 app = FastAPI()
 
+@app.get("/stauff1/")
+async def recognise_stauffe_file1(file: str):
+    #file = file.replace("/", "\\")
+    res = ''
+    with open(file, 'r') as f:
+        print('stauff_get ', f.name)
+        res = transfer(file)
+    #print('stauff26_get ', str(file))
+    appendLogEvent('stauff_get', str(f.name))
+    return {"result" : res}
+    #return {"result": transfer(file)}
+
+@app.get("/stauff26/")
+async def recognise_stauffe_file1(file: str):
+    #file = file.replace("/", "\\")
+    res = ''
+    with open(file, 'r') as f:
+        print('stauff26_get ', f.name)
+        res = transfer26(file)
+    #print('stauff26_get ', str(file))
+    appendLogEvent('stauff26_get', str(f.name))
+    return {"result" : res}
+    #return {"result": transfer(file)}
+
 @app.post("/stauff")
-async def recognise_stauffe_file(file: bytes = File(...)):
-    #return {'result' : file}
-    return {"result": transfer(file)}
+#async def recognise_stauffe_file(file: bytes = File(...)):
+async def recognise_stauffe_file(file: str = ''):
+    appendLogEvent('stauff', file)
+    print('test', file)
+    return {"result" : file}
+    #return {"result": transfer(file)}
+
+@app.get("/stauff26_get/")
+def recognise_stauffe_file26(file: bytes = File(...)):
+    #file = file.replace("/", "\\")
+    print('stauff26_get ', str(file))
+    appendLogEvent('stauff26_get', str(file))
+   
+    return {"result1" : file}
+    #return {"result": transfer26(file)}
 
 @app.post("/stauff26")
 async def recognise_stauffe_file26(file: bytes = File(...)):
-    #return {'result' : file}
+#async def recognise_stauffe_file26(file: str):
+    #print('stauff26_get ', file)
+    appendLogEvent('stauff26_get', str(file))
     return {"result": transfer26(file)}
 
 @app.get("/test2")

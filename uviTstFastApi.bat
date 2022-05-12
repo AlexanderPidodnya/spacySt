@@ -1,0 +1,1 @@
+uvicorn tstFastApi:app --reload

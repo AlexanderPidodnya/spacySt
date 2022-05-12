@@ -1,0 +1,628 @@
+Order number: 2384496
+Purchase order number: N SR-1-06 1818*
+1600 5 PC 1910000459 20,98 1 пя 104,90
+Limit-Switch-G42NO-S-B0 2 -B1.3
+SIE-NO
+
+Clogging indicator (normally open)
+packed per each item
+
+Product description: Pressure gauge
+Export - Customs tariff no.: 90262020
+Country of origin: Italy
+
+
+
+Description
+Material Surcharge 8,90 % 9,34
+114,24
+
+NER#NORDER:2384496
+#CONTRACT:SR-1-06
+#CONTRACT1:1818
+#AMOUNT:*
+#POS:1600
+#AMOUNT:5
+#ARTICLE:1910000459
+#PRICE:20,98
+#UNIT:1
+#SUMMA:104,90
+#TARIFF:90262020
+#COUNTRY:Italy
+#PR_SURCH:8,90
+#SURCHARGE:9,34
+#TOTAL:114,24
+Order number: 2386802
+Purchase order number: N SR-1-06 1865*
+1700 16 PC 3404002618 10,92 1 пя 174,72
+
+ббс-2-я06-0001-л-я$н
+BBV2G060001M-3
+
+packed per each item
+
+Product description: valve
+
+Export - Customs tariff no.: 84812010
+Country of origin: Germany
+
+Material Surcharge 6,90 % 12,06
+186,78
+EAC - Eurasian Conformity
+
+NER#NORDER:2386802
+#CONTRACT:SR-1-06
+#CONTRACT1:1865
+#POS:1700
+#AMOUNT:16
+#ARTICLE:3404002618
+#PRICE:10,92
+#UNIT:1
+#SUMMA:174,72
+#TARIFF:84812010
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:12,06
+#TOTAL:186,78
+Order number: 2393671
+Purchase order number: N SR-1-06 1997
+1800 8 PC 1910000835 8,62 1 пя 68,96
+
+SMBB-80-S-L-10-O-C-S150-O
+
+packed per each item
+
+Product description: filter breather
+Export - Customs tariff no.: 84213925
+Country of origin: Italy
+
+Material Surcharge 11,40 % 7,86
+76,82
+EAC - Eurasian Conformity
+
+NER#NORDER:2393671
+#CONTRACT:SR-1-06
+#CONTRACT1:1997
+#POS:1800
+#AMOUNT:8
+#ARTICLE:1910000835
+#PRICE:8,62
+#UNIT:1
+#SUMMA:68,96
+#TARIFF:84213925
+#COUNTRY:Italy
+#PR_SURCH:11,40
+#SURCHARGE:7,86
+#TOTAL:76,82
+Order number: 2400286
+Purchase order number: N SR-1-06 45
+1900 3 пя 1910000593 (*) 35,16 1 пя 105,48
+
+SNK-176-V-C-O-12
+
+SNK 176 V-C-O-12
+
+packed per each item
+
+Product description: level gauge
+
+Export - Customs tariff no.: 90261089
+
+
+Description
+
+Country of origin: Germany
+
+Material Surcharge 11,40 % 12,02
+117,50
+
+NER#NORDER:2400286
+#CONTRACT:SR-1-06
+#CONTRACT1:45
+#POS:1900
+#AMOUNT:3
+#ARTICLE:1910000593
+#PRICE:35,16
+#UNIT:1
+#SUMMA:105,48
+#TARIFF:90261089
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:12,02
+#TOTAL:117,50
+Order number: 2400289
+Purchase order number: N SR-1-06 46*
+3200 8 PC 1910000835 8,62 1 пя 68,96
+
+SMBB-80-S-L-10-O-C-S150-O
+
+packed per each item
+
+Product description: filter breather
+Export - Customs tariff no.: 84213925
+Country of origin: Italy
+
+Material Surcharge 11,40 % 7,86
+76,82
+EAC - Eurasian Conformity
+
+NER#NORDER:2400289
+#CONTRACT:SR-1-06
+#CONTRACT1:46
+#POS:3200
+#AMOUNT:8
+#ARTICLE:1910000835
+#PRICE:8,62
+#UNIT:1
+#SUMMA:68,96
+#TARIFF:84213925
+#COUNTRY:Italy
+#PR_SURCH:11,40
+#SURCHARGE:7,86
+#TOTAL:76,82
+Order number: 2400289
+Purchase order number: N SR-1-06 46*
+5300 45 пя 6010008033 (*) 253,45 100 пя 114,05
+
+ю-л/ее-1 0LR-OK-B-W3
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079290
+Country of origin: Germany
+
+Material Surcharge 6,90 % 7,87
+121,92
+
+NER#NORDER:2400289
+#CONTRACT:SR-1-06
+#CONTRACT1:46
+#POS:5300
+#AMOUNT:45
+#ARTICLE:6010008033
+#PRICE:253,45
+#UNIT:100
+#SUMMA:114,05
+#TARIFF:73079290
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:7,87
+#TOTAL:121,92
+Order number: 2403191
+Purchase order number: N SR-1-06 51*
+5400 20 PC 6010003210 (*) 757,33 100 PC 151,47
+
+FI-SNV-42L-V-W3-DKO
+FI-SNV-42L-B-W3-DKO
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+
+
+
+Description
+Material Surcharge 6,90 % 10,45
+161,92
+
+NER#NORDER:2403191
+#CONTRACT:SR-1-06
+#CONTRACT1:51
+#POS:5400
+#AMOUNT:20
+#ARTICLE:6010003210
+#PRICE:757,33
+#UNIT:100
+#SUMMA:151,47
+#TARIFF:73079910
+#COUNTRY:Germany
+
+
+
+
+#PR_SURCH:6,90
+#SURCHARGE:10,45
+#TOTAL:161,92
+Order number: 2403202
+Purchase order number: N SR-1-06 60*
+5500 20 PC 6010004114 (*) 193,68 100 PC 38,74
+
+FI-VD-28L-V-W3-M
+
+FI-VD-28L-B-W3-M
+
+packed per each item
+
+Product description: Plug
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+
+Material Surcharge 6,90 % 2,67
+41,41
+
+NER#NORDER:2403202
+#CONTRACT:SR-1-06
+#CONTRACT1:60
+#POS:5500
+#AMOUNT:20
+#ARTICLE:6010004114
+#PRICE:193,68
+#UNIT:100
+#SUMMA:38,74
+#TARIFF:73079910
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:2,67
+#TOTAL:41,41
+Order number: 2403202
+Purchase order number: N SR-1-06 60*
+5600 10 PC 1210026050 (*) 8,71 1 пя 87,10
+
+SMK-20-18L-G-W3-MS
+SMK-20-18L-B-G-W3-MS
+
+packed per each item
+
+Product description: coupling
+
+Export - Customs tariff no.: 84818073
+Country of origin: Germany
+
+Material Surcharge 11,40 % 9,93
+97,03
+
+NER#NORDER:2403202
+#CONTRACT:SR-1-06
+#CONTRACT1:60
+#POS:5600
+#AMOUNT:10
+#ARTICLE:1210026050
+#PRICE:8,71
+#UNIT:1
+#SUMMA:87,10
+#TARIFF:84818073
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:9,93
+#TOTAL:97,03
+Order number: 2403202
+Purchase order number: N SR-1-06 60*
+5700 39 PC 6010008033 (*) 253,45 100 PC 98,85
+
+FI-WEE-1 0LR-OK-B-W3
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079290
+Country of origin: Germany
+
+Material Surcharge 6,90 % 6,82
+
+
+
+Description
+105,67
+
+NER#NORDER:2403202
+#CONTRACT:SR-1-06
+#CONTRACT1:60
+#POS:5700
+#AMOUNT:39
+#ARTICLE:6010008033
+#PRICE:253,45
+#UNIT:100
+#SUMMA:98,85
+#TARIFF:73079290
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:6,82
+#TOTAL:105,67
+Order number: 2403203
+Purchase order number: N SR-1-06 61*
+5800 1 PC 6100148875 (*) 157,00 1 пя 157,00
+
+$е-014-я-10-б-р-я12-1б-е/4
+
+packed per each item
+
+Product description: filter assembly
+Export - Customs tariff no.: 84212980
+Country of origin: Germany
+
+Material Surcharge 8,90 % 13,97
+170,97
+EAC - Eurasian Conformity
+
+NER#NORDER:2403203
+#CONTRACT:SR-1-06
+#CONTRACT1:61
+#POS:5800
+#AMOUNT:1
+#ARTICLE:6100148875
+#PRICE:157,00
+#UNIT:1
+#SUMMA:157,00
+#TARIFF:84212980
+#COUNTRY:Germany
+
+
+#PR_SURCH:8,90
+#SURCHARGE:13,97
+#TOTAL:170,97
+Order number: 2406871
+Purchase order number: N SR-1-06 90*
+5900 10.000 PC 1130004020 3,93 100 PC 393,00
+
+AS-M6x30-DIN931/933-8.8-W3
+AS-M6X30-DIN931/933-8.8-W3
+packed per each item
+
+Product description: screw
+
+Export - Customs tariff no.: 73181588
+Country of origin: Origin unknown
+
+Material Surcharge 11,40 % 44,80
+437,80
+
+NER#NORDER:2406871
+#CONTRACT:SR-1-06
+#CONTRACT1:90
+#POS:5900
+#AMOUNT:10.000
+#ARTICLE:1130004020
+#PRICE:3,93
+#UNIT:100
+#SUMMA:393,00
+#TARIFF:73181588
+#COUNTRY:Origin unknown
+#PR_SURCH:11,40
+#SURCHARGE:44,80
+#TOTAL:437,80
+Order number: 2406871
+Purchase order number: N SR-1-06 90*
+6000 10.000 пя 6100152347 12,73 100 пя 1.273,00
+
+SM-1-8/1 D-M-W3/2
+
+packed per each item
+
+Customer ID-No.: 000000001 120001932
+Product description: nuts
+
+Export - Customs tariff no.: 73181692
+Country of origin: Germany
+
+Material Surcharge 11,40 % 145,12
+
+
+
+Description
+1.418,12
+
+NER#NORDER:2406871
+#CONTRACT:SR-1-06
+#CONTRACT1:90
+#POS:6000
+#AMOUNT:10.000
+#ARTICLE:6100152347
+#PRICE:12,73
+#UNIT:100
+#SUMMA:1.273,00
+#TARIFF:73181692
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:145,12
+#TOTAL:1.418,12
+Order number: 2406871
+Purchase order number: N SR-1-06 90*
+6100 15.000 PC 6020002496 43,75 100 PC 6.562,50
+
+FI-WDDS-10L/S-V-W3
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73269098
+Country of origin: Germany
+
+Material Surcharge 6,90 % 452,81
+7.015,31
+
+NER#NORDER:2406871
+#CONTRACT:SR-1-06
+#CONTRACT1:90
+#POS:6100
+#AMOUNT:15.000
+#ARTICLE:6020002496
+#PRICE:43,75
+#UNIT:100
+#SUMMA:6.562,50
+#TARIFF:73269098
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:452,81
+#TOTAL:7.015,31
+Order number: 2406871
+Purchase order number: N SR-1-06 90*
+6200 10.000 пя 1130002997 26,38 100 PC 2.638,00
+110-PA
+110 PA
+
+packed per each item
+
+Product description: Pipe clamp
+
+Export - Customs tariff no.: 39269097
+Country of origin: Germany
+
+Material Surcharge 11,40 % 300,73
+2.938,73
+
+NER#NORDER:2406871
+#CONTRACT:SR-1-06
+#CONTRACT1:90
+#POS:6200
+#AMOUNT:10.000
+#ARTICLE:1130002997
+#PRICE:26,38
+#UNIT:100
+#SUMMA:2.638,00
+#TARIFF:39269097
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:300,73
+#TOTAL:2.938,73
+Order number: 2406871
+Purchase order number: N SR-1-06 90*
+6300 10.000 пя 1130000255 6,24 100 PC 624,00
+DP-1-W3
+DP 1 лг
+
+packed per each item
+
+Product description: cover plate
+
+Export - Customs tariff no.: 73269098
+Country of origin: Germany
+
+Material Surcharge 11,40 % 71,14
+695,14
+
+
+Description
+
+
+NER#NORDER:2406871
+#CONTRACT:SR-1-06
+#CONTRACT1:90
+#POS:6300
+#AMOUNT:10.000
+#ARTICLE:1130000255
+#PRICE:6,24
+#UNIT:100
+#SUMMA:624,00
+#UNIT:1
+#TARIFF:73269098
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:71,14
+#TOTAL:695,14
+Order number: 2406871
+Purchase order number: N SR-1-06 90*
+6400 33 пя 1230000224 1,46 1 пя 48,18
+SAS-G1/4-W2
+SAS-G1/4
+packed per each item
+Product description: lug
+Export - Customs tariff no.: 73079319
+Country of origin: Germany
+
+Material Surcharge 11,40 % 5,49
+53,67
+
+NER#NORDER:2406871
+#CONTRACT:SR-1-06
+#CONTRACT1:90
+#POS:6400
+#AMOUNT:33
+#ARTICLE:1230000224
+#PRICE:1,46
+#UNIT:1
+#SUMMA:48,18
+#TARIFF:73079319
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:5,49
+#TOTAL:53,67
+Order number: 2407330
+Purchase order number: N SR-1-06 101*
+6500 1 PC 6010000294 (*) 1.168,26 100 PC 11,68
+
+FI-RVI-R1/2-W3-1
+
+packed per each item
+
+Product description: valve
+
+Export - Customs tariff no.: 84813091
+Country of origin: Germany
+
+Material Surcharge 6,90 % 0,81
+
+12,49
+EAC - Eurasian Conformity
+
+Value 13.842,34
+\.ю.р. 0,00 % 13.842,34 0,00
+Final amount 13.842,34
+
+Steuerfreie Ausfuhrlieferung / Tax free export
+Terms and Conditions
+
+Terms of payment 120 days net from end of month
+
+Up to 30.06.2022 without deduction
+Shipment EXW - Neuenrade
+
+.
+
+Weights (Gross / Net)
+Gross weight 642,50 KG
+Net weight 605,66 KG
+
+* According to REACH regulations, please be informed that the article contains more than 0.1% lead.
+
+
+NER#NORDER:2407330
+#CONTRACT:SR-1-06
+#CONTRACT1:101
+#POS:6500
+#AMOUNT:1
+#ARTICLE:6010000294
+#PRICE:1.168,26
+#UNIT:100
+#SUMMA:11,68
+#TARIFF:84813091
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:0,81
+#TOTAL:12,49
+#TOTAL:13.842,34
+#PR_SURCH:0,00
+#SURCHARGE:13.842,34
+#TOTAL:0,00
+#TOTAL:605,66

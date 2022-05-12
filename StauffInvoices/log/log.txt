@@ -1,0 +1,104 @@
+2022-03-21 15:44:12.434098  method: stauff2, event: C:\Users\alex1c\sources\spacySt\StauffInvoices\92951828.pdf
+2022-03-21 15:44:38.912637  method: stauff2, event: C:\Users\alex1c\sources\spacySt\StauffInvoices\92951828.pdf
+2022-03-21 15:44:41.062667  method: stauff2, event: C:\Users\alex1c\sources\spacySt\StauffInvoices\92951828.pdf
+2022-03-21 15:44:46.185369  method: stauff2, event: C:\Users\alex1c\sources\spacySt\StauffInvoices\92951828.pdf
+2022-03-21 15:44:54.710817  method: stauff2, event: C:\Users\alex1c\sources\spacySt\StauffInvoices\92951828.pdf
+2022-03-21 15:45:04.402866  method: stauff26_get, event: C:\Users\alex1c\sources\spacySt\StauffInvoices\92951828.pdf
+2022-03-24 13:16:05.327140  method: stauff26_get, event: C:\Users\alex1c\sources\spacySt\StauffInvoices\92951828.pdf
+2022-03-24 13:18:41.413640  method: func_get_test, event: {78: 'sometext'}
+2022-03-24 13:20:23.536801  method: func_get_test, event: {78: 'C:\\Users\\alex1c\\sources\\spacySt\\StauffInvoices\\92951828.pdf'}
+2022-03-24 13:22:28.621296  method: func_get_test, event: {78: 'C:\\Users\\alex1c\\sources\\spacySt\\StauffInvoices\\92951828.pdf'}
+2022-03-24 13:22:30.309495  method: func_get_test, event: {78: 'C:\\Users\\alex1c\\sources\\spacySt\\StauffInvoices\\92951828.pdf'}
+2022-03-24 13:22:33.214340  method: func_get_test, event: {78: 'C:\\Users\\alex1c\\sources\\spacySt\\StauffInvoices\\92951828.pdf'}
+2022-03-24 13:22:41.888455  method: func_get_test, event: {78: 'C:\\Users\\alex1c\\sources\\spacySt\\StauffInvoices\\92951828.pdf00'}
+2022-03-24 13:33:40.271147  method: stauff26_get, event: b'C:\\Users\\alex1c\\sources\\spacySt\\StauffInvoices\\92946891.pdf'
+2022-03-24 14:34:01.675330  method: stauff2, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-03-24 14:44:51.757547  method: stauff2, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-03-24 15:42:18.693613  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-03-24 15:47:12.611047  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-03-24 15:51:43.027824  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-03-24 16:25:00.917272  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-03-24 16:35:56.473019  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-03-24 16:46:24.619876  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-03-31 12:00:07.480354  method: stauff26_get, event: D:/StauffInvoices/92946890.pdf
+2022-03-31 16:53:07.887624  method: stauff_get, event: D:/StauffInvoices/92946890.pdf
+2022-03-31 21:19:52.707280  method: stauff_get, event: D:/StauffInvoices/92946890.pdf
+2022-04-14 13:58:33.758328  method: stauff_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92951829.pdf
+2022-04-14 14:14:54.586066  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92951829.pdf
+2022-04-14 14:53:30.802486  method: stauff_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92951829.pdf
+2022-04-14 15:19:18.275269  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92951829.pdf
+2022-04-14 15:37:07.115816  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92951829.pdf
+2022-04-14 15:53:15.069706  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92951829.pdf
+2022-04-19 11:50:13.898925  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92951829.pdf
+2022-04-19 15:43:14.909644  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-19 15:51:09.599319  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-19 15:51:54.088379  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-19 16:09:30.731486  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-19 16:12:29.533618  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-19 16:20:13.944186  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-19 16:25:03.781231  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-19 16:29:54.877975  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 13:51:46.585100  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 14:13:15.407694  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 14:15:16.590387  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 14:19:02.760319  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 14:35:24.825780  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 14:39:22.300556  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 14:43:42.039346  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 14:45:24.416479  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 15:32:29.789702  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 15:36:45.395797  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 15:42:01.328688  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 15:49:42.071203  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 15:51:52.995666  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 15:54:20.704819  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 16:06:42.743635  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-21 16:27:21.517732  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 15:20:42.701189  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:00:12.167256  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:12:26.209137  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:19:00.256722  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:19:19.834927  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:20:34.052405  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:21:25.318944  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:25:07.273096  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:28:21.976268  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:42:08.810263  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:42:27.046564  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-26 16:52:34.665166  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 10:34:31.054298  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 11:11:30.899914  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 14:12:55.824404  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 14:14:16.058091  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 14:43:52.314762  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 14:58:25.709173  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 15:22:55.043835  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 15:36:26.715488  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 15:46:34.121459  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 15:51:54.150851  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 16:12:51.946431  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 16:40:37.094269  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-04-28 21:49:15.026894  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-05-04 14:44:19.095022  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-05-05 07:51:15.938552  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-05-05 10:24:55.287626  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006368.pdf
+2022-05-05 10:40:13.222339  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006368.pdf
+2022-05-05 11:03:12.353127  method: stauff26_get, event: C:/Users/alex1c/Documents/93006368.pdf
+2022-05-05 11:33:07.207279  method: stauff26_get, event: C:/Users/alex1c/Documents/93006368.pdf
+2022-05-05 11:33:36.944888  method: stauff26_get, event: C:/Users/alex1c/Documents/93006368.pdf
+2022-05-05 11:35:24.342999  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006368.pdf
+2022-05-05 11:46:28.809978  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006368.pdf
+2022-05-05 11:47:14.232960  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006368.pdf
+2022-05-05 13:22:10.263904  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006369.pdf
+2022-05-05 14:46:44.475251  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006370.pdf
+2022-05-05 15:26:26.769780  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006371.pdf
+2022-05-05 15:26:44.988514  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006371.pdf
+2022-05-05 16:41:21.669841  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006371.pdf
+2022-05-05 16:49:02.463012  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006370.pdf
+2022-05-05 16:51:29.685628  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006370.pdf
+2022-05-05 16:54:13.572360  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006369.pdf
+2022-05-05 17:40:15.015127  method: stauff26_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2250 Stauff/93006367.pdf
+2022-05-07 17:42:59.846304  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-05-07 19:22:56.547175  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
+2022-05-07 19:44:38.126786  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946891.pdf
+2022-05-07 19:45:34.588776  method: stauff26_get, event: C:/Users/alex1c/Documents/93006368.pdf
