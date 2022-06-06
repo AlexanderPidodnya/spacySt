@@ -1,0 +1,1546 @@
+Order number: 2424739
+Purchase order number: N SR-1-06 302
+300 40 PC 6010003710 (*) 432,40 100 PC 172,96
+
+FI-ELD-15L-V-W3-DKO
+
+FI-ELD-1 5L-B-W3-DKO
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+
+Material Surcharge 6,90 % 11,93
+
+
+
+Description
+Energy Surcharge 3,50 % 6,05
+190,94
+
+NER#NORDER:2424739
+#CONTRACT:SR-1-06
+#CONTRACT1:302
+#AMOUNT:300
+#AMOUNT:40
+#ARTICLE:6010003710
+#PRICE:432,40
+#UNIT:100
+#SUMMA:172,96
+#TARIFF:73079910
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:11,93
+#PR_ESURCH:3,50
+#ESURCHARGE:6,05
+#TOTAL:190,94
+Order number: 2433089
+Purchase order number: N SR-1-06 368
+500 40 PC 6010003710 (*) 432,40 100 PC 172,96
+
+FI-ELD-15L-V-W3-DKO
+
+FI-ELD-1 5L-B-W3-DKO
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+
+Material Surcharge 6,90 % 11,93
+Energy Surcharge 3,50 % 6,05
+190,94
+
+NER#NORDER:2433089
+#CONTRACT:SR-1-06
+#CONTRACT1:368
+#POS:500
+#AMOUNT:40
+#ARTICLE:6010003710
+#PRICE:432,40
+#UNIT:100
+#SUMMA:172,96
+#TARIFF:73079910
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:11,93
+#PR_ESURCH:3,50
+#ESURCHARGE:6,05
+#TOTAL:190,94
+Order number: 2439412
+Purchase order number: N SR-1-06 397
+5600 518 PC 6010013885 424,46 100 PC 2.198,70
+
+FI-SN-30SX3-B-W159-M
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079319
+Country of origin: Germany
+
+Material Surcharge 6,90 % 151,71
+Energy Surcharge 3,50 % 76,95
+2.427,36
+
+NER#NORDER:2439412
+#CONTRACT:SR-1-06
+#UNIT:397
+#POS:5600
+#AMOUNT:518
+#ARTICLE:6010013885
+#PRICE:424,46
+#UNIT:100
+#SUMMA:2.198,70
+#TARIFF:73079319
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:151,71
+#PR_ESURCH:3,50
+#ESURCHARGE:76,95
+#TOTAL:2.427,36
+Order number: 2440456
+Purchase order number: N SR-1-06 419
+5700 50 PC 1130022183 13,82 100 PC 6,91
+
+LBBU-DP-1 -M8/U5/16-W3
+
+LBBU-DP 1 M8-U5/16 W3
+
+packed per each item
+
+Product description: cover plate
+
+Export - Customs tariff no.: 73182900
+Country of origin: Germany
+
+
+
+Description
+Material Surcharge 11,40 % 0,79
+Energy Surcharge 3,50 % 0,24
+7,94
+
+NER#NORDER:2440456
+#CONTRACT:SR-1-06
+#CONTRACT1:419
+#POS:5700
+#AMOUNT:50
+#ARTICLE:1130022183
+#PRICE:13,82
+#UNIT:100
+#SUMMA:6,91
+#TARIFF:73182900
+#COUNTRY:Germany
+
+
+
+
+#PR_SURCH:11,40
+#ESURCHARGE:0,79
+#PR_ESURCH:3,50
+#ESURCHARGE:0,24
+#TOTAL:7,94
+Order number: 2444919
+Purchase order number: N SR-1-06 439
+5800 315 PC 6010004111 (*) 72,20 100 PC 227,43
+
+FI-VD-15L-V-W3-M
+
+FI-VD-15L-B-W3-M
+
+packed per each item
+
+Product description: Plug
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+
+Material Surcharge 6,90 % 15,69
+Energy Surcharge 3,50 % 7,96
+251,08
+
+
+NER#NORDER:2444919
+#CONTRACT:SR-1-06
+#CONTRACT1:439
+#POS:5800
+#AMOUNT:315
+#ARTICLE:6010004111
+#PRICE:72,20
+#UNIT:100
+#SUMMA:227,43
+#TARIFF:73079910
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:15,69
+#PR_ESURCH:3,50
+#ESURCHARGE:7,96
+#TOTAL:251,08
+Order number: 2448057
+Purchase order number: N SR-1-06 479
+
+5900 2 PC 1020002310 (*) 145,84 1 PC 291,68
+SE-030-A-05-B/2
+SE-030A05B/2
+
+packed per each item
+
+Product description: filter element
+Export - Customs tariff no.: 84212980
+Country of origin: Germany
+
+Material Surcharge 8,90 % 25,96
+Energy Surcharge 3,50 % 10,21
+327,85
+
+EAC - Eurasian Conformity
+
+NER#NORDER:2448057
+#CONTRACT:SR-1-06
+#POS:5900
+#AMOUNT:2
+#ARTICLE:1020002310
+#PRICE:145,84
+#UNIT:1
+#SUMMA:291,68
+#TARIFF:84212980
+#COUNTRY:Germany
+
+
+#PR_SURCH:8,90
+#SURCHARGE:25,96
+#PR_ESURCH:3,50
+#ESURCHARGE:10,21
+#TOTAL:327,85
+Order number: 2455016
+Purchase order number: N SR-1-06 490
+
+6000 16 PC 1130005213 39.520,81 100 PC 6.323,33
+12406-PP
+12406 PP
+
+
+Description
+
+packed per each item
+
+Product description: Pipe clamp
+
+Export - Customs tariff no.: 39269097
+Country of origin: Germany
+
+Material Surcharge 11,40 % 720,86
+Energy Surcharge 3,50 % 221,32
+7.265,51
+
+
+NER#NORDER:2455016
+#CONTRACT:SR-1-06
+#POS:6000
+#AMOUNT:16
+#ARTICLE:1130005213
+#PRICE:39.520,81
+#UNIT:100
+#SUMMA:6.323,33
+#CONTRACT1:12406
+#TARIFF:39269097
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:720,86
+#PR_ESURCH:3,50
+#ESURCHARGE:221,32
+#TOTAL:7.265,51
+Order number: 2455016
+Purchase order number: N SR-1-06 490
+
+6100 60 PC 1130000718 73,62 100 PC 44,17
+DPAL-6S-W2
+DPAL 6 S W2
+
+packed per each item
+
+Product description: cover plate
+
+Export - Customs tariff no.: 73182900
+Country of origin: Germany
+
+Material Surcharge 11,40 % 5,04
+Energy Surcharge 3,50 % 1,55
+50,76
+
+NER#NORDER:2455016
+#CONTRACT:SR-1-06
+#CONTRACT1:490
+#POS:6100
+#AMOUNT:60
+#ARTICLE:1130000718
+#PRICE:73,62
+#UNIT:100
+#SUMMA:44,17
+#TARIFF:73182900
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:5,04
+#PR_ESURCH:3,50
+#ESURCHARGE:1,55
+#TOTAL:50,76
+Order number: 2456039
+Purchase order number: N SR-1-06 504
+6200 7 PC 1910000387 11,23 1 PC 78,61
+
+SPG-063-00160-01-S-B04
+
+SPG 063-00160-01-S-B04
+
+PRESSURE GAUGE
+
+packed per each item
+
+Product description: Pressure gauge
+Export - Customs tariff no.: 90262040
+Country of origin: Poland
+
+Material Surcharge 11,40 % 8,96
+Energy Surcharge 3,50 % 2,75
+90,32
+
+EAC - Eurasian Conformity
+
+
+
+Description
+
+NER#NORDER:2456039
+#CONTRACT:SR-1-06
+#CONTRACT1:504
+#ARTICLE:6200
+#AMOUNT:7
+#ARTICLE:1910000387
+#PRICE:11,23
+#UNIT:1
+#SUMMA:78,61
+#TARIFF:90262040
+#COUNTRY:Poland
+
+
+#PR_SURCH:11,40
+#SURCHARGE:8,96
+#PR_ESURCH:3,50
+#ESURCHARGE:2,75
+#TOTAL:90,32
+Order number: 2456047
+Purchase order number: N SR-1-06 509
+6300 4 PC 1020010395 169,60 1 PC 678,40
+
+RE-300-S-50-B/2-NB
+RE-300S50B/2-1613
+
+packed per each item
+
+Product description: filter element
+Export - Customs tariff no.: 84212980
+Country of origin: Germany
+
+Material Surcharge 8,90 % 60,38
+Energy Surcharge 3,50 % 23,74
+762,52
+EAC - Eurasian Conformity
+
+NER#NORDER:2456047
+#CONTRACT:SR-1-06
+#CONTRACT1:6300
+#AMOUNT:4
+#ARTICLE:1020010395
+#PRICE:169,60
+#UNIT:1
+#SUMMA:678,40
+#TARIFF:84212980
+#COUNTRY:Germany
+
+
+#PR_SURCH:8,90
+#ESURCHARGE:60,38
+#PR_ESURCH:3,50
+#ESURCHARGE:23,74
+#TOTAL:762,52
+Order number: 2456258
+Purchase order number: N SR-1-06 511
+6400 2 PC 1910000384 11,23 1 PC 22,46
+
+SPG-063-00040-01-S-B04
+
+SPG 063-00040-01-S-B04
+
+PRESSURE GAUGE
+
+packed per each item
+
+Product description: Pressure gauge
+Export - Customs tariff no.: 90262040
+Country of origin: Poland
+
+Material Surcharge 11,40 % 2,56
+Energy Surcharge 3,50 % 0,79
+25,81
+
+EAC - Eurasian Conformity
+
+NER#NORDER:2456258
+#CONTRACT:SR-1-06
+#CONTRACT1:511
+#ARTICLE:6400
+#AMOUNT:2
+#ARTICLE:1910000384
+#PRICE:11,23
+#UNIT:1
+#SUMMA:22,46
+#TARIFF:90262040
+#COUNTRY:Poland
+
+
+#PR_SURCH:11,40
+#SURCHARGE:2,56
+#PR_ESURCH:3,50
+#ESURCHARGE:0,79
+#TOTAL:25,81
+Order number: 2458283
+Purchase order number: N SR-1-06 522
+
+6500 660 PC 1130000718 73,62 100 PC 485,89
+DPAL-6S-W2
+DPAL 6 S W2
+
+packed per each item
+Product description: cover plate
+Export - Customs tariff no.: 73182900
+
+
+Description
+
+Country of origin: Germany
+
+Material Surcharge 11,40 % 55,39
+Energy Surcharge 3,50 % 17,01
+558,29
+
+NER#NORDER:2458283
+#CONTRACT:SR-1-06
+#POS:6500
+#AMOUNT:660
+#ARTICLE:1130000718
+#PRICE:73,62
+#UNIT:100
+#SUMMA:485,89
+#TARIFF:73182900
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:55,39
+#PR_ESURCH:3,50
+#ESURCHARGE:17,01
+#TOTAL:558,29
+Order number: 2458389
+Purchase order number: N SR-1-06 524
+6600 6 PC 6100207196 (*) 27,07 1 PC 162,42
+
+SNA-254-LB-S-T-12
+
+packed per each item
+
+Product description: level gauge
+
+Export - Customs tariff no.: 90261089
+Country of origin: Germany
+
+Material Surcharge 11,40 % 18,52
+Energy Surcharge 3,50 % 5,68
+186,62
+
+NER#NORDER:2458389
+#CONTRACT:SR-1-06
+#UNIT:524
+#ARTICLE:6600
+#AMOUNT:6
+#ARTICLE:6100207196
+#PRICE:27,07
+#UNIT:1
+#SUMMA:162,42
+#TARIFF:90261089
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:18,52
+#PR_ESURCH:3,50
+#ESURCHARGE:5,68
+#TOTAL:186,62
+Order number: 2458439
+Purchase order number: N SR-1-06 533
+6700 200 PC 6030003246 (*) 28,68 100 PC 57,36
+FI-G-08L-W3
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+
+Material Surcharge 6,90 % 3,96
+Energy Surcharge 3,50 % 2,01
+63,33
+
+NER#NORDER:2458439
+#CONTRACT:SR-1-06
+#CONTRACT1:533
+#POS:6700
+#AMOUNT:200
+#ARTICLE:6030003246
+#PRICE:28,68
+#UNIT:100
+#SUMMA:57,36
+#TARIFF:73079910
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:3,96
+#PR_ESURCH:3,50
+#ESURCHARGE:2,01
+#TOTAL:63,33
+Order number: 2458439
+Purchase order number: N SR-1-06 533
+6800 10 PC 6030003250 (*) 83,27 100 PC 8,33
+FI-G-18L-W3
+
+packed per each item
+Product description: fitting
+Export - Customs tariff no.: 73079910
+
+
+Description
+
+Country of origin: Germany
+
+Material Surcharge 6,90 % 0,57
+Energy Surcharge 3,50 % 0,29
+9,19
+
+NER#NORDER:2458439
+#CONTRACT:SR-1-06
+#POS:6800
+#AMOUNT:10
+#ARTICLE:6030003250
+#PRICE:83,27
+#UNIT:100
+#SUMMA:8,33
+#TARIFF:73079910
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:0,57
+#PR_ESURCH:3,50
+#ESURCHARGE:0,29
+#TOTAL:9,19
+Order number: 2462808
+Purchase order number: N SR-1-06 550
+6900 5 PC 1020024226 58,52 1 PC 292,60
+
+SP-070-E-05-V/4
+
+SP-070E05V/4
+
+packed per each item
+
+Product description: filter element
+Export - Customs tariff no.: 84219990
+Country of origin: Germany
+
+Material Surcharge 8,90 % 26,04
+Energy Surcharge 3,50 % 10,24
+328,88
+
+EAC - Eurasian Conformity
+
+NER#NORDER:2462808
+#CONTRACT:SR-1-06
+#UNIT:550
+#ARTICLE:6900
+#AMOUNT:5
+#ARTICLE:1020024226
+#PRICE:58,52
+#UNIT:1
+#SUMMA:292,60
+#TARIFF:84219990
+#COUNTRY:Germany
+
+
+#PR_SURCH:8,90
+#ESURCHARGE:26,04
+#PR_ESURCH:3,50
+#ESURCHARGE:10,24
+#TOTAL:328,88
+Order number: 2462814
+Purchase order number: N SR-1-06 552
+
+7000 20 PC 1130000718 73,62 100 PC 14,72
+DPAL-6S-W2
+DPAL 6 S W2
+
+packed per each item
+
+Product description: cover plate
+
+Export - Customs tariff no.: 73182900
+Country of origin: Germany
+
+Material Surcharge 11,40 % 1,68
+Energy Surcharge 3,50 % 0,52
+16,92
+
+NER#NORDER:2462814
+#CONTRACT:SR-1-06
+#POS:7000
+#AMOUNT:20
+#ARTICLE:1130000718
+#PRICE:73,62
+#UNIT:100
+#SUMMA:14,72
+#TARIFF:73182900
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:1,68
+#PR_ESURCH:3,50
+#ESURCHARGE:0,52
+#TOTAL:16,92
+Order number: 2462828
+Purchase order number: N SR-1-06 556
+7100 2 PC 1020022766 107,17 1 PC 214,34
+
+RE-300-G-10-B/5
+
+
+Description
+
+RE-300G10B/5
+
+packed per each item
+
+Product description: filter element
+Export - Customs tariff no.: 84212980
+Country of origin: Germany
+
+Material Surcharge 8,90 % 19,08
+Energy Surcharge 3,50 % 7,50
+240,92
+EAC - Eurasian Conformity
+
+NER#NORDER:2462828
+#CONTRACT:SR-1-06
+#CONTRACT1:556
+#CONTRACT1:7100
+#AMOUNT:2
+#ARTICLE:1020022766
+#PRICE:107,17
+#UNIT:1
+#SUMMA:214,34
+#TARIFF:84212980
+#COUNTRY:Germany
+
+
+#PR_SURCH:8,90
+#SURCHARGE:19,08
+#PR_ESURCH:3,50
+#ESURCHARGE:7,50
+#TOTAL:240,92
+Order number: 2462828
+Purchase order number: N SR-1-06 556
+7200 3 PC 1020022673 51,08 1 PC 153,24
+
+RE-160-G-10-B/4
+
+RE-160G10B/4
+
+packed per each item
+
+Product description: filter element
+Export - Customs tariff no.: 84212980
+Country of origin: Germany
+
+Material Surcharge 8,90 % 13,64
+Energy Surcharge 3,50 % 5,36
+172,24
+EAC - Eurasian Conformity
+
+NER#NORDER:2462828
+#CONTRACT:SR-1-06
+#CONTRACT1:556
+#AMOUNT:3
+#ARTICLE:1020022673
+#PRICE:51,08
+#UNIT:1
+#SUMMA:153,24
+#TARIFF:84212980
+#COUNTRY:Germany
+
+
+#PR_SURCH:8,90
+#SURCHARGE:13,64
+#PR_ESURCH:3,50
+#ESURCHARGE:5,36
+#TOTAL:172,24
+Order number: 2462980
+Purchase order number: N SR-1-06 560
+7300 6 PC 6010003419 (*) 3.185,01 100 PC 191,10
+
+FI-RSW-30SR-WD-B-W3-MS
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079290
+Country of origin: Germany
+
+Material Surcharge 6,90 % 13,19
+Energy Surcharge 3,50 % 6,69
+210,98
+
+
+
+Description
+
+NER#NORDER:2462980
+#CONTRACT:SR-1-06
+#CONTRACT1:560
+#POS:7300
+#AMOUNT:6
+#ARTICLE:6010003419
+#PRICE:3.185,01
+#UNIT:100
+#SUMMA:191,10
+#TARIFF:73079290
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:13,19
+#PR_ESURCH:3,50
+#ESURCHARGE:6,69
+#TOTAL:210,98
+Order number: 2465952
+Purchase order number: N SR-1-06 567
+7400 20 PC 1020023700 74,91 1 PC 1.498,20
+
+SE-160-G-10-B/4
+
+SE-160G10B/4
+
+packed per each item
+
+Product description: filter element
+Export - Customs tariff no.: 84212980
+Country of origin: Germany
+
+Material Surcharge 8,90 % 133,34
+Energy Surcharge 3,50 % 52,44
+1.683,98
+EAC - Eurasian Conformity
+
+NER#NORDER:2465952
+#CONTRACT:SR-1-06
+#CONTRACT1:567
+#POS:7400
+#AMOUNT:20
+#ARTICLE:1020023700
+#PRICE:74,91
+#UNIT:1
+#SUMMA:1.498,20
+#TARIFF:84212980
+#COUNTRY:Germany
+
+
+#PR_SURCH:8,90
+#SURCHARGE:133,34
+#PR_ESURCH:3,50
+#ESURCHARGE:52,44
+#TOTAL:1.683,98
+Order number: 2466895
+Purchase order number: N SR-1-06 565
+7500 5 PC 6010000214 (*) 3.387,51 100 PC 169,38
+
+FI-RVV-38SR-WD-B-W3-1
+
+packed per each item
+
+Product description: valve
+
+Export - Customs tariff no.: 84813091
+Country of origin: Germany
+
+Material Surcharge 6,90 % 11,69
+Energy Surcharge 3,50 % 5,93
+187,00
+EAC - Eurasian Conformity
+
+NER#NORDER:2466895
+#CONTRACT:SR-1-06
+#AMOUNT:5
+#ARTICLE:6010000214
+#PRICE:3.387,51
+#UNIT:100
+#SUMMA:169,38
+#TARIFF:84813091
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:11,69
+#PR_ESURCH:3,50
+#ESURCHARGE:5,93
+#TOTAL:187,00
+Order number: 2466895
+Purchase order number: N SR-1-06 565
+7600 6 PC 6010001506 (*) 845,45 100 PC 50,73
+
+FI-GE-38 SR-WD-B-W3-MS
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+
+Material Surcharge 6,90 % 3,50
+
+
+
+Description
+Energy Surcharge 3,50 % 1,78
+56,01
+
+NER#NORDER:2466895
+#CONTRACT:SR-1-06
+#POS:7600
+#AMOUNT:6
+#ARTICLE:6010001506
+#PRICE:845,45
+#UNIT:100
+#SUMMA:50,73
+#TARIFF:73079910
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:3,50
+#PR_ESURCH:3,50
+#ESURCHARGE:1,78
+#TOTAL:56,01
+Order number: 2466895
+Purchase order number: N SR-1-06 565
+7700 6 PC 6010003565 (*) 2.040,76 100 PC 122,45
+
+FI-EWD-38S-V-W3-DKO-MS
+
+FI-EWD-38 S-B-W3-DKO-MS
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079290
+Country of origin: Germany
+
+Material Surcharge 6,90 % 8,45
+Energy Surcharge 3,50 % 4,29
+135,19
+
+NER#NORDER:2466895
+#CONTRACT:SR-1-06
+#CONTRACT1:7700
+#AMOUNT:6
+#ARTICLE:6010003565
+#PRICE:2.040,76
+#UNIT:100
+#SUMMA:122,45
+#TARIFF:73079290
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:8,45
+#PR_ESURCH:3,50
+#ESURCHARGE:4,29
+#TOTAL:135,19
+Order number: 2466895
+Purchase order number: N SR-1-06 565
+7800 10 PC 6030000750 622,07 100 PC 62,21
+FI-AS-38S-W2
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079319
+Country of origin: Germany
+
+Material Surcharge 6,90 % 4,29
+Energy Surcharge 3,50 % 2,18
+68,68
+
+NER#NORDER:2466895
+#CONTRACT:SR-1-06
+#POS:7800
+#AMOUNT:10
+#ARTICLE:6030000750
+#PRICE:622,07
+#UNIT:100
+#SUMMA:62,21
+#TARIFF:73079319
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:4,29
+#PR_ESURCH:3,50
+#ESURCHARGE:2,18
+#TOTAL:68,68
+Order number: 2466898
+Purchase order number: N SR-1-06 568
+7900 20 PC 1720000074 3,17 1 PC 63,40
+
+Kit-BFX-IS-M14X45-ISO4762-10.9-W1
+SET-BFX-IS-M14X45-10.9-ISO4762-W1
+packed per each item
+
+Customer ID-No.: 000000001720000065
+Product description: screw
+
+Export - Customs tariff no.: 73181568
+
+
+Description
+
+Country of origin: Origin unknown
+
+Material Surcharge 15,50 % 9,83
+Energy Surcharge 3,50 % 2,22
+75,45
+
+NER#NORDER:2466898
+#CONTRACT:SR-1-06
+#CONTRACT1:568
+#POS:7900
+#AMOUNT:20
+#ARTICLE:1720000074
+#PRICE:3,17
+#UNIT:1
+#SUMMA:63,40
+#TARIFF:000000001720000065
+#TARIFF:73181568
+#COUNTRY:Origin unknown
+#PR_SURCH:15,50
+#ESURCHARGE:9,83
+#PR_ESURCH:3,50
+#ESURCHARGE:2,22
+#TOTAL:75,45
+Order number: 2466898
+Purchase order number: N SR-1-06 568
+8000 10 PC 1730000391 22,50 1 PC 225,00
+
+BFX90-604-G-M14-W1
+BFX90-604-G-M14
+
+packed per each item
+
+Product description: flange
+
+Export - Customs tariff no.: 73079100
+Country of origin: Italy
+
+Material Surcharge 15,50 % 34,88
+Energy Surcharge 3,50 % 7,88
+267,76
+
+
+NER#NORDER:2466898
+#CONTRACT:SR-1-06
+#CONTRACT1:568
+#POS:8000
+#AMOUNT:10
+#ARTICLE:1730000391
+#PRICE:22,50
+#UNIT:1
+#SUMMA:225,00
+#TARIFF:73079100
+#COUNTRY:Italy
+
+
+#PR_SURCH:15,50
+#ESURCHARGE:34,88
+#PR_ESURCH:3,50
+#ESURCHARGE:7,88
+#TOTAL:267,76
+Order number: 2466898
+Purchase order number: N SR-1-06 568
+
+8100 10 PC 1730000034 3,84 1 PC 38,40
+DB-604-M14-W66
+DB-604-M14
+
+Qty/Unit PC = Pair
+
+packed per each item
+
+Product description: flange
+
+Export - Customs tariff no.: 73079910
+Country of origin: China
+
+Material Surcharge 15,50 % 5,95
+Energy Surcharge 3,50 % 1,34
+45,69
+
+NER#NORDER:2466898
+#CONTRACT:SR-1-06
+#CONTRACT1:568
+#POS:8100
+#AMOUNT:10
+#ARTICLE:1730000034
+#PRICE:3,84
+#UNIT:1
+#SUMMA:38,40
+#SUMMA:=
+#TARIFF:73079910
+#COUNTRY:China
+
+
+#PR_SURCH:15,50
+#ESURCHARGE:5,95
+#PR_ESURCH:3,50
+#ESURCHARGE:1,34
+#TOTAL:45,69
+Order number: 2467225
+Purchase order number: N SR-1-06 569
+8200 400 PC 6030003823 17,38 100 PC 69,52
+FI-M-10S-W3
+
+
+Description
+
+packed per each item
+
+Product description: nuts
+
+Export - Customs tariff no.: 73079910
+Country of origin: Germany
+
+Material Surcharge 6,90 % 4,80
+Energy Surcharge 3,50 % 2,43
+76,75
+
+NER#NORDER:2467225
+#CONTRACT:SR-1-06
+#UNIT:569
+#POS:8200
+#AMOUNT:400
+#ARTICLE:6030003823
+#PRICE:17,38
+#UNIT:100
+#SUMMA:69,52
+#TARIFF:73079910
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:4,80
+#PR_ESURCH:3,50
+#ESURCHARGE:2,43
+#TOTAL:76,75
+Order number: 2467225
+Purchase order number: N SR-1-06 569
+8300 7 PC 6010008043 (*) 397,95 100 PC 27,86
+
+FI-WEE-10SR-OK-B-W3
+
+packed per each item
+
+Product description: fitting
+
+Export - Customs tariff no.: 73079290
+Country of origin: Germany
+
+Material Surcharge 6,90 % 1,92
+Energy Surcharge 3,50 % 0,98
+30,76
+
+NER#NORDER:2467225
+#CONTRACT:SR-1-06
+#POS:8300
+#AMOUNT:7
+#ARTICLE:6010008043
+#PRICE:397,95
+#UNIT:100
+#SUMMA:27,86
+#TARIFF:73079290
+#COUNTRY:Germany
+
+
+#PR_SURCH:6,90
+#SURCHARGE:1,92
+#PR_ESURCH:3,50
+#ESURCHARGE:0,98
+#TOTAL:30,76
+Order number: 2467309
+Purchase order number: N SR-1-06 572
+8400 30 PC 1130004170 13,10 100 PC 3,93
+
+AS-M10x60-DIN931/933-8.8-W3
+AS-M10X60-DIN931/933-8.8-W3
+packed per each item
+
+Product description: screw
+
+Export - Customs tariff no.: 73181588
+Country of origin: Origin unknown
+
+Material Surcharge 11,40 % 0,45
+Energy Surcharge 3,50 % 0,14
+4,52
+
+NER#NORDER:2467309
+#CONTRACT:SR-1-06
+#CONTRACT1:572
+#POS:8400
+#AMOUNT:30
+#ARTICLE:1130004170
+#PRICE:13,10
+#UNIT:100
+#SUMMA:3,93
+#TARIFF:73181588
+#COUNTRY:Origin unknown
+#PR_SURCH:11,40
+#SURCHARGE:0,45
+#PR_ESURCH:3,50
+#ESURCHARGE:0,14
+#TOTAL:4,52
+Order number: 2467309
+Purchase order number: N SR-1-06 572
+8500 100 PC 1130004171 15,03 100 PC 15,03
+
+
+Description
+
+AS-M10x70-DIN931/933-8.8-W3
+AS-M10X70-DIN931/933-8.8-W3
+packed per each item
+
+Product description: screw
+
+Export - Customs tariff no.: 73181588
+Country of origin: Poland
+
+Material Surcharge 11,40 % 1,71
+Energy Surcharge 3,50 % 0,53
+17,27
+
+
+NER#NORDER:2467309
+#CONTRACT:SR-1-06
+#CONTRACT1:572
+#POS:8500
+#AMOUNT:100
+#ARTICLE:1130004171
+#PRICE:15,03
+#UNIT:100
+#SUMMA:15,03
+#TARIFF:73181588
+#COUNTRY:Poland
+
+
+#PR_SURCH:11,40
+#SURCHARGE:1,71
+#PR_ESURCH:3,50
+#ESURCHARGE:0,53
+#TOTAL:17,27
+Order number: 2467309
+Purchase order number: N SR-1-06 572
+
+8600 15 PC 1130005744 (*) 184,78 100 PC 27,72
+4030-AL
+4030 AL
+
+packed per each item
+
+Product description: Pipe clamp
+
+Export - Customs tariff no.: 76169910
+Country of origin: Lithuania
+
+Material Surcharge 11,40 % 3,16
+Energy Surcharge 3,50 % 0,97
+31,85
+
+
+NER#NORDER:2467309
+#CONTRACT:SR-1-06
+#CONTRACT1:572
+#POS:8600
+#AMOUNT:15
+#ARTICLE:1130005744
+#PRICE:184,78
+#UNIT:100
+#SUMMA:27,72
+#ARTICLE:4030
+#TARIFF:76169910
+#PR_SURCH:11,40
+#SURCHARGE:3,16
+#PR_ESURCH:3,50
+#ESURCHARGE:0,97
+#TOTAL:31,85
+Order number: 2467309
+Purchase order number: N SR-1-06 572
+
+8700 30 PC 1130005872 (*) 224,24 100 PC 67,27
+5032-AL
+5032 AL
+
+packed per each item
+
+Product description: Pipe clamp
+
+Export - Customs tariff no.: 76169910
+Country of origin: Lithuania
+
+Material Surcharge 11,40 % 7,67
+Energy Surcharge 3,50 % 2,35
+77,29
+
+
+Description
+
+
+NER#NORDER:2467309
+#CONTRACT:SR-1-06
+#CONTRACT1:572
+#POS:8700
+#AMOUNT:30
+#ARTICLE:1130005872
+#PRICE:224,24
+#UNIT:100
+#SUMMA:67,27
+#CONTRACT1:5032
+#TARIFF:76169910
+#PR_SURCH:11,40
+#SURCHARGE:7,67
+#PR_ESURCH:3,50
+#ESURCHARGE:2,35
+#TOTAL:77,29
+Order number: 2467309
+Purchase order number: N SR-1-06 572
+8800 20 PC 1130000710 29,87 100 PC 5,97
+DPAL-4S-W2
+DPAL 4 S W2
+packed per each item
+Product description: cover plate
+Export - Customs tariff no.: 73182900
+Country of origin: Germany
+
+Material Surcharge 11,40 % 0,68
+Energy Surcharge 3,50 % 0,21
+6,86
+
+
+NER#NORDER:2467309
+#CONTRACT:SR-1-06
+#CONTRACT1:572
+#POS:8800
+#AMOUNT:20
+#ARTICLE:1130000710
+#PRICE:29,87
+#UNIT:100
+#SUMMA:5,97
+#TARIFF:73182900
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#ESURCHARGE:0,68
+#PR_ESURCH:3,50
+#ESURCHARGE:0,21
+#TOTAL:6,86
+Order number: 2467309
+Purchase order number: N SR-1-06 572
+
+8900 40 PC 1130000714 35,53 100 PC 14,21
+DPAL-5S-W2
+DPAL 5 S W2
+
+packed per each item
+
+Product description: cover plate
+
+Export - Customs tariff no.: 73182900
+Country of origin: Germany
+
+Material Surcharge 11,40 % 1,62
+Energy Surcharge 3,50 % 0,50
+16,33
+
+NER#NORDER:2467309
+#CONTRACT:SR-1-06
+#CONTRACT1:572
+#POS:8900
+#AMOUNT:40
+#ARTICLE:1130000714
+#PRICE:35,53
+#UNIT:100
+#SUMMA:14,21
+#TARIFF:73182900
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:1,62
+#PR_ESURCH:3,50
+#ESURCHARGE:0,50
+#TOTAL:16,33
+Order number: 2467309
+Purchase order number: N SR-1-06 572
+9000 20 PC 1120001950 76,42 100 PC 15,28
+SPAL-4S-M-W2
+
+SPAL 4 S M W2
+
+packed per each item
+
+Product description: weld plate
+
+Export - Customs tariff no.: 73181900
+Country of origin: Germany
+
+Material Surcharge 11,40 % 1,74
+
+
+
+Description
+Energy Surcharge 3,50 % 0,53
+17,55
+
+NER#NORDER:2467309
+#CONTRACT:SR-1-06
+#CONTRACT1:572
+#POS:9000
+#AMOUNT:20
+#ARTICLE:1120001950
+#PRICE:76,42
+#UNIT:100
+#SUMMA:15,28
+#TARIFF:73181900
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:1,74
+#PR_ESURCH:3,50
+#ESURCHARGE:0,53
+#TOTAL:17,55
+Order number: 2467309
+Purchase order number: N SR-1-06 572
+9100 40 PC 1120000848 83,02 100 PC 33,21
+SPAL-5S-M-W2
+
+SPAL 5 S M W2
+
+packed per each item
+
+Product description: weld plate
+
+Export - Customs tariff no.: 73181900
+Country of origin: Germany
+
+Material Surcharge 11,40 % 3,79
+Energy Surcharge 3,50 % 1,16
+38,16
+
+NER#NORDER:2467309
+#CONTRACT:SR-1-06
+#CONTRACT1:572
+#POS:9100
+#AMOUNT:40
+#ARTICLE:1120000848
+#PRICE:83,02
+#UNIT:100
+#SUMMA:33,21
+#TARIFF:73181900
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#ESURCHARGE:3,79
+#PR_ESURCH:3,50
+#ESURCHARGE:1,16
+#TOTAL:38,16
+Order number: 2467315
+Purchase order number: N SR-1-06 573
+9200 4 PC 1020023685 (*) 156,60 1 PC 626,40
+
+SE-130-H-10-B/4
+
+SE-130H10B/4
+
+packed per each item
+
+Product description: filter element
+Export - Customs tariff no.: 84212980
+Country of origin: Germany
+
+Material Surcharge 8,90 % 55,75
+Energy Surcharge 3,50 % 21,92
+704,07
+EAC - Eurasian Conformity
+
+NER#NORDER:2467315
+#CONTRACT:SR-1-06
+#CONTRACT1:573
+#AMOUNT:4
+#ARTICLE:1020023685
+#PRICE:156,60
+#UNIT:1
+#SUMMA:626,40
+#TARIFF:84212980
+#COUNTRY:Germany
+
+
+#PR_SURCH:8,90
+#ESURCHARGE:55,75
+#PR_ESURCH:3,50
+#ESURCHARGE:21,92
+#TOTAL:704,07
+Order number: 2467316
+Purchase order number: N SR-1-06 574
+9300 40 PC 1210026034 (*) 4,66 1 PC 186,40
+
+SMK-20-10L-B-K-W3
+SMK20-1 OL-PK-C6F
+
+packed per each item
+Product description: coupling
+
+
+Description
+
+Export - Customs tariff no.: 84818073
+Country of origin: Germany
+
+Material Surcharge 11,40 % 21,25
+Energy Surcharge 3,50 % 6,52
+214,17
+
+
+NER#NORDER:2467316
+#CONTRACT:SR-1-06
+#CONTRACT1:574
+#POS:9300
+#AMOUNT:40
+#ARTICLE:1210026034
+#PRICE:4,66
+#UNIT:1
+#SUMMA:186,40
+#TARIFF:84818073
+#COUNTRY:Germany
+
+
+#PR_SURCH:11,40
+#SURCHARGE:21,25
+#PR_ESURCH:3,50
+#ESURCHARGE:6,52
+#TOTAL:214,17
+Order number: 2467316
+Purchase order number: N SR-1-06 574
+
+9400 18 PC 1020020524 16,42 1 PC 295,56
+RE-022-N-20-B/2
+RE-022N20B/2
+
+packed per each item
+
+Product description: filter element
+Export - Customs tariff no.: 84212980
+Country of origin: Germany
+
+Material Surcharge 8,90 % 26,30
+Energy Surcharge 3,50 % 10,34
+332,20
+
+EAC - Eurasian Conformity
+
+Value 17.465,94
+V.A.T. 0,00 % 17.465,94 0,00
+Final amount 17.465,94
+
+Steuerfreie Ausfuhrlieferung / Tax free export
+Terms and Conditions
+
+Terms of payment 120 days net from end of month
+Up to 30.09.2022 without deduction
+
+Shipment EXW - Neuenrade
+
+Weights (Gross / Net)
+
+Gross weight 969,24 KG
+
+Net weight 892,16 KG
+
+* According to REACH regulations, please be informed that the article contains more than 0.1% lead.
+
+
+NER#NORDER:2467316
+#CONTRACT:SR-1-06
+#POS:9400
+#AMOUNT:18
+#ARTICLE:1020020524
+#PRICE:16,42
+#UNIT:1
+#SUMMA:295,56
+#TARIFF:84212980
+#COUNTRY:Germany
+
+
+#PR_SURCH:8,90
+#ESURCHARGE:26,30
+#PR_ESURCH:3,50
+#ESURCHARGE:10,34
+#TOTAL:332,20
+#TOTAL:17.465,94
+#PRICE:0,00
+#ESURCHARGE:17.465,94
+#TOTAL:0,00
+#TOTAL:17.465,94
+#SUMMA:969,24
+#SUMMA:892,16

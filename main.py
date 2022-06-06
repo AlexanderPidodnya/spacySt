@@ -22,7 +22,7 @@ def appendLogEvent(methName, desc):
         logFile.write(str(datetime.now()) + ' ' + ' method: ' + methName + ', event: ' + desc + '\n')
 
 def saveIntermediateResult(f_name, content):
-    with open(f_name, 'w') as txtFile:
+    with open(f_name, 'w', encoding="utf-8") as txtFile:
         #print(datetime.datetime.now())
         txtFile.write(content) 
 
@@ -40,7 +40,7 @@ def pdfDocToString(f_name):
     images = convert_from_path(f_name, dpi = 300)
     text = ''
     for img in images:
-        text += pytesseract.image_to_string(img , lang='rus+eng', config='--psm 4' )
+        text += pytesseract.image_to_string(img , lang='eng+deu', config='--psm 4' )
     return text
 
 def pdfDocToStringRu(f_name):
@@ -289,7 +289,8 @@ def transferByModel(fName, nlp_):
     #saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_text.txt'), text)
     #txtS = shortening(text)
     #saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_shorten.txt'), txtS)
-    docs = text2spans26(txtS)
+
+    docs = text2spans26(txtS.replace(' ,', ','))
     #nlp_ = spacy.load(r"C:\Users\alex1c\sources\spacySt\output_1\model-best")
     answer = []
     processing = ''
@@ -310,6 +311,7 @@ def transferByModel(fName, nlp_):
         processing += 'NER' + ner
     saveIntermediateResult(os.path.join(fullDirName, comPartFname + '_proc.txt'), processing)
     jsonStr = json.dumps(answer) 
+    saveIntermediateResult(os.path.join(fullDirName, comPartFname + '.json'), jsonStr)
     return jsonStr
 
 def transfer(fName):
@@ -370,6 +372,14 @@ def transfer26(fName):
     jsonStr = json.dumps(answer) 
     return jsonStr
 
+def transfer12(fName):
+    nlp_ = spacy.load(r"C:\Users\alex1c\sources\spacySt\output12\model-best")
+    return transferByModel(fName, nlp_)
+
+def transfer19(fName):
+    nlp_ = spacy.load(r"C:\Users\alex1c\sources\spacySt\output19\model-best")
+    return transferByModel(fName, nlp_)
+
 app = FastAPI()
 
 @app.get("/stauff1/")
@@ -381,6 +391,30 @@ async def recognise_stauffe_file1(file: str):
         res = transfer(file)
     #print('stauff26_get ', str(file))
     appendLogEvent('stauff_get', str(f.name))
+    return {"result" : res}
+    #return {"result": transfer(file)}
+
+@app.get("/stauff12/")
+async def recognise_stauffe_file1(file: str):
+    #file = file.replace("/", "\\")
+    res = ''
+    with open(file, 'r') as f:
+        print('stauff12_get ', f.name)
+        res = transfer12(file)
+    #print('stauff26_get ', str(file))
+    appendLogEvent('stauff12_get', str(f.name))
+    return {"result" : res}
+    #return {"result": transfer(file)}
+
+@app.get("/stauff19/")
+async def recognise_stauffe_file1(file: str):
+    #file = file.replace("/", "\\")
+    res = ''
+    with open(file, 'r') as f:
+        print('stauff12_get ', f.name)
+        res = transfer19(file)
+    #print('stauff26_get ', str(file))
+    appendLogEvent('stauff19_get', str(f.name))
     return {"result" : res}
     #return {"result": transfer(file)}
 

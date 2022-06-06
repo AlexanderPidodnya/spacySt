@@ -102,3 +102,94 @@
 2022-05-07 19:22:56.547175  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946890.pdf
 2022-05-07 19:44:38.126786  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/StauffInvoices/92946891.pdf
 2022-05-07 19:45:34.588776  method: stauff26_get, event: C:/Users/alex1c/Documents/93006368.pdf
+2022-05-12 15:49:28.902619  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-16 13:10:51.505752  method: stauff26_get, event: C:/Users/alex1c/Documents/93006368.pdf
+2022-05-16 13:16:08.428815  method: stauff26_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-16 13:34:02.921997  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-16 13:39:27.150349  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-16 13:41:32.518770  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-16 13:49:21.959566  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-16 13:55:57.431794  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-16 14:01:06.902817  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-16 14:11:00.276447  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-16 14:46:51.845722  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-16 15:32:51.575833  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-16 15:41:34.309209  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-16 16:09:52.272768  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2252 Stauff/Inv 93016135.pdf
+2022-05-16 16:25:21.850141  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2252 Stauff/Inv 93016136.pdf
+2022-05-16 16:39:06.492621  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2252 Stauff/Inv 93016135.pdf
+2022-05-16 17:01:37.006492  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/93016136.pdf
+2022-05-16 17:21:34.164969  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2252 Stauff/93016136.pdf
+2022-05-19 13:51:12.801039  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-19 13:59:10.178042  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-19 14:00:02.107207  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-19 14:00:45.909160  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-19 16:37:05.839550  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-19 17:18:55.077503  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012934.pdf
+2022-05-19 22:11:56.145271  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-19 22:29:37.311725  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-19 22:31:29.452423  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012934.pdf
+2022-05-20 11:56:09.774070  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93022179.pdf
+2022-05-20 12:16:31.739645  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93022180.pdf
+2022-05-20 14:33:55.156967  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93022181.pdf
+2022-05-20 14:54:31.901986  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93022182.pdf
+2022-05-20 15:09:35.513673  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93022183.pdf
+2022-05-20 15:25:21.292126  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93022184.pdf
+2022-05-20 15:28:03.198497  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-20 15:34:57.976577  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-23 15:01:11.606030  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-23 15:01:14.215404  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-23 15:22:04.981867  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 15:22:07.606837  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 15:23:36.993977  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 15:23:39.087732  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 15:30:31.186508  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 15:30:33.217772  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 15:52:43.087334  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 15:52:45.524826  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 15:56:37.492382  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 15:56:40.179880  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 16:00:26.068293  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 16:00:28.755822  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 16:07:00.539180  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 16:07:03.226650  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 16:09:19.412503  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 16:09:21.099867  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 16:13:10.726617  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-23 16:13:13.382909  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012935.pdf
+2022-05-23 16:15:49.946285  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012934.pdf
+2022-05-23 16:15:56.993161  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012934.pdf
+2022-05-23 16:19:16.416163  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012934.pdf
+2022-05-23 16:19:24.056793  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012934.pdf
+2022-05-23 16:20:40.403152  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-23 16:20:42.559404  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-23 16:29:41.843915  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 16:29:44.265825  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/0093012939.pdf
+2022-05-23 16:31:02.564654  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-23 16:31:05.095929  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 12:01:21.037892  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 12:01:23.986517  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 12:15:26.847744  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 12:15:29.582119  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 12:56:45.476709  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 12:56:48.320248  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 14:31:19.095919  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 14:31:21.845915  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 15:32:27.703930  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 15:32:29.797682  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 15:41:38.993651  method: stauff19_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-24 15:41:41.806152  method: stauff12_get, event: C:/Users/alex1c/sources/spacySt/OCR/93022180.pdf
+2022-05-31 09:04:04.881836  method: stauff19_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029936.pdf
+2022-05-31 09:04:06.553718  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029936.pdf
+2022-05-31 10:14:31.909748  method: stauff19_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029936.pdf
+2022-05-31 10:14:33.175377  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029936.pdf
+2022-05-31 10:46:15.176384  method: stauff19_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029937.pdf
+2022-05-31 10:46:21.473267  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029937.pdf
+2022-05-31 12:00:41.631654  method: stauff19_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029938.pdf
+2022-05-31 12:00:43.287915  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029938.pdf
+2022-05-31 12:10:13.685345  method: stauff19_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029939.pdf
+2022-05-31 12:10:16.169724  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029939.pdf
+2022-05-31 12:17:03.358733  method: stauff19_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029940.pdf
+2022-05-31 12:17:04.671189  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029940.pdf
+2022-05-31 12:20:13.095388  method: stauff19_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029941.pdf
+2022-05-31 12:20:14.954743  method: stauff12_get, event: //sbs-dc/share/ООО_ШТАУФФ/Отдел логистики/ВЭД/Приход-отправка/СПЕЦИФИКАЦИИ для брокера/2255 Stauff/93029941.pdf
